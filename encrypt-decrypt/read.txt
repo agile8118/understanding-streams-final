@@ -1,0 +1,3 @@
+Whatever you put in this file will be encrypted by our encryption 
+application (encryption.js)! The result will be written to a new file in the same 
+directory. 

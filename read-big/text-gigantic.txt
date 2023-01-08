@@ -1,0 +1,2 @@
+In write-many/writeMany.js file, specify the "i" variable to be 1,000,000,000
+ and generate a file and put it here (final file size will be around 10 GB)!

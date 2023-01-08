@@ -1,0 +1,1 @@
+This is a destination file which our custom Duplex Stream (customDuplex.js) writes to!

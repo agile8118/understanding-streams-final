@@ -1,0 +1,1 @@
+Our custom Writable Stream (customWritable.js) writes to this file!

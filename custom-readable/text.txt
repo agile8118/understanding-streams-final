@@ -1,0 +1,4 @@
+Our custom Readble Stream (customReadable.js) reads from this file!
+
+In write-many/writeMany.js file, specify the "i" variable to be 1,000,000
+ and generate a file and put it here!
